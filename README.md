@@ -3,11 +3,9 @@
 - [Full Report](https://datastudio.google.com/reporting/c310c50d-37b2-40e8-b210-b9efb836e101)
 
 
-
 ## What's New - New Grants In Round 12
-|                                                                                              |                 |                                                                                  |                  |                                    |                  |                     |                     | 
-|----------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------|------------------|------------------------------------|------------------|---------------------|---------------------| 
 | Gran                                                                                         | category        | url                                                                              | match_amount     | crowdfund_amount_contributions_usd | total            | Unique contributors | match ratio         | 
+|----------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------|------------------|------------------------------------|------------------|---------------------|---------------------| 
 | Electronic Frontier Foundation                                                               | Community       | https://gitcoin.co/grants/3974/electronic-frontier-foundation                    | 228273.838777386 | 58715.0431696883                   | 286988.881947075 | 3331                | 3.8878254439440245  | 
 | ZigZag Exchange                                                                              | Grants Round 12 | https://gitcoin.co/grants/4352/zigzag-exchange                                   | 75113.9697175857 | 166070.234615808                   | 241184.204333394 | 10573               | 0.4523024242806465  | 
 | Longevity Prize (by VitaDAO)                                                                 | Grants Round 12 | https://gitcoin.co/grants/4083/longevity-prize-by-vitadao                        | 176195.452103108 | 7815.29498123227                   | 184010.74708434  | 857                 | 22.544952241243045  | 
@@ -21,12 +19,9 @@
 | Just-DNA-Seq                                                                                 | Community       | https://gitcoin.co/grants/4048/just-dna-seq                                      | 58412.7362965053 | 10882.1925969781                   | 69294.9288934835 | 503                 | 5.367735938870083   | 
 
 
-
 ## Top Growing Faster Grants - By Total Amount
-
-|                                                                              |            |                                                                                  |                  |                  |                   |                    |                     | 
-|------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------|------------------|------------------|-------------------|--------------------|---------------------| 
 | Grant                                                                        | category   | url                                                                              | match_amount     | Total            | Total(Last round) | Change(Last Round) | match ratio         | 
+|------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------|------------------|------------------|-------------------|--------------------|---------------------| 
 | Coin Center is educating policy makers about public blockchains              | Community  | https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ | 340000           | 443838.934783506 | 9642.003276       | 45.031817463521264 | 3.2743016933760605  | 
 | The Tor Project                                                              | Infra Tech | https://gitcoin.co/grants/2805/the-tor-project                                   | 188294.797995953 | 283574.441189565 | 13013.57109       | 20.790670618264937 | 1.9762332402245688  | 
 | Bloom Network - Panvala League                                               | Community  | https://gitcoin.co/grants/1595/bloom-network-panvala-league                      | 22916.7168915115 | 76734.3722095287 | 4007.604511       | 18.14719179472665  | 0.4258215404608946  | 
@@ -41,9 +36,8 @@
 
 
 ## Growing Faster Grants - By Contributors
-|                                                                        |            |                                                                                  |              |                    |                    |                     | 
-|------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------|--------------|--------------------|--------------------|---------------------| 
 | Grant                                                                  | category   | url                                                                              | Contributors | Contributors(last) | Change             | match ratio         | 
+|------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------|--------------|--------------------|--------------------|---------------------| 
 | Atlantis World                                                         | dApp Tech  | https://gitcoin.co/grants/3062/atlantis-world                                    | 5784         | 685                | 7.443795620437956  | 0.4650247025326285  | 
 | Hardhat by Nomic Labs                                                  | dApp Tech  | https://gitcoin.co/grants/1592/hardhat-by-nomic-labs                             | 6492         | 900                | 6.213333333333333  | 1.3937805518141757  | 
 | Coin Center is educating policy makers about public blockchains        | Community  | https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ | 5727         | 1158               | 3.9455958549222796 | 3.2743016933760605  | 
@@ -60,9 +54,8 @@
 ## By Match Ratio
 
 ![](images/1640681294307.jpg)
-|                                                                                              |                 |                                                                                  |                  |                  |                  |                    | 
-|----------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------|------------------|------------------|------------------|--------------------| 
 | Grant                                                                                        | category        | url                                                                              | Match            | Corwdfund        | Total            | match ratio        | 
+|----------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------|------------------|------------------|------------------|--------------------| 
 | Longevity Prize (by VitaDAO)                                                                 | Grants Round 12 | https://gitcoin.co/grants/4083/longevity-prize-by-vitadao                        | 176195.452103108 | 7815.29498123227 | 184010.74708434  | 22.544952241243045 | 
 | "Lifespan.io Meets Web3 - Crowdsourced Clinical Trials, Inverse Quadratic Funding, and You!" | Community       | https://gitcoin.co/grants/3998/lifespanio-meets-web3-crowdsourced-clinical-trial | 66411.390316072  | 5816.53171501446 | 72227.9220310864 | 11.417695900228903 | 
 | Incentivizing Actions That Increase and Maintain Native Ecosystems Through Tokenization      | Community       | https://gitcoin.co/grants/4006/incentivizing-actions-that-increase-and-maintain- | 25425.696131801  | 2670.844740595   | 28096.540872396  | 9.51972076300353   | 
