@@ -1,6 +1,6 @@
 # Gitcoin Round 12 Grants Analytics
 - [Report](reports/Gitcoin_Round_12_Report.pdf)
-- [Full Report](https://datastudio.google.com/reporting/c310c50d-37b2-40e8-b210-b9efb836e101)
+- [DataStudio Full Report](https://datastudio.google.com/reporting/c310c50d-37b2-40e8-b210-b9efb836e101)
 
 
 ## What's New - New Grants In Round 12
@@ -20,6 +20,7 @@
 
 
 ## Top Growing Faster Grants - By Total Amount
+![](images/1640682343795.jpg)
 | Grant                                                                        | category   | url                                                                              | match_amount     | Total            | Total(Last round) | Change(Last Round) | match ratio         | 
 |------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------|------------------|------------------|-------------------|--------------------|---------------------| 
 | Coin Center is educating policy makers about public blockchains              | Community  | https://gitcoin.co/grants/1668/coin-center-is-educating-policy-makers-about-publ | 340000           | 443838.934783506 | 9642.003276       | 45.031817463521264 | 3.2743016933760605  | 
@@ -53,7 +54,7 @@
 
 ## By Match Ratio
 
-![](images/1640681294307.jpg)
+![](images/1640682343795.jpg)
 | Grant                                                                                        | category        | url                                                                              | Match            | Corwdfund        | Total            | match ratio        | 
 |----------------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------|------------------|------------------|------------------|--------------------| 
 | Longevity Prize (by VitaDAO)                                                                 | Grants Round 12 | https://gitcoin.co/grants/4083/longevity-prize-by-vitadao                        | 176195.452103108 | 7815.29498123227 | 184010.74708434  | 22.544952241243045 | 
